@@ -1,0 +1,983 @@
+{
+    "manifest_version": "1.0.21",
+    "title": "Pristine - Cleaning Service Elementor Kit",
+    "page_builder": "elementor",
+    "kit_version": "1.0.0",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.jpg",
+            "source": "templates\/global.json",
+            "preview_url": "https:\/\/demo2.eightheme.com",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": null,
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "HFB - Header",
+            "screenshot": "screenshots\/hfb-header.png",
+            "source": "templates\/hfb-header.json",
+            "preview_url": "https:\/\/demo2.eightheme.com\/pristine\/template-kit\/hfb-header\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "HFB - Footer",
+            "screenshot": "screenshots\/hfb-footer.png",
+            "source": "templates\/hfb-footer.json",
+            "preview_url": "https:\/\/demo2.eightheme.com\/pristine\/template-kit\/hfb-footer\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Pristine - Testimonial",
+            "screenshot": "screenshots\/pristine-testimonial.png",
+            "source": "templates\/pristine-testimonial.json",
+            "preview_url": "https:\/\/demo2.eightheme.com\/pristine\/template-kit\/pristine-testimonial\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-testimonial",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Metform - Contact Form",
+            "screenshot": "screenshots\/metform-contact-form.jpg",
+            "source": "templates\/metform-contact-form.json",
+            "preview_url": "https:\/\/demo2.eightheme.com\/pristine\/template-kit\/metform-contact-form\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-other",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Metform - Newsletter",
+            "screenshot": "screenshots\/metform-newsletter.jpg",
+            "source": "templates\/metform-newsletter.json",
+            "preview_url": "https:\/\/demo2.eightheme.com\/pristine\/template-kit\/metform-newsletter\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-other",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Homepage",
+            "screenshot": "screenshots\/homepage.jpg",
+            "source": "templates\/homepage.json",
+            "preview_url": "https:\/\/demo2.eightheme.com\/pristine\/template-kit\/homepage\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About Page",
+            "screenshot": "screenshots\/about-page.jpg",
+            "source": "templates\/about-page.json",
+            "preview_url": "https:\/\/demo2.eightheme.com\/pristine\/template-kit\/about-page\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Service Page",
+            "screenshot": "screenshots\/service-page.jpg",
+            "source": "templates\/service-page.json",
+            "preview_url": "https:\/\/demo2.eightheme.com\/pristine\/template-kit\/service-page\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Portfolio Page",
+            "screenshot": "screenshots\/portfolio-page.jpg",
+            "source": "templates\/portfolio-page.json",
+            "preview_url": "https:\/\/demo2.eightheme.com\/pristine\/template-kit\/portfolio-page\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "News Page",
+            "screenshot": "screenshots\/news-page.jpg",
+            "source": "templates\/news-page.json",
+            "preview_url": "https:\/\/demo2.eightheme.com\/pristine\/template-kit\/news-page\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "archive-blog",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Single News",
+            "screenshot": "screenshots\/single-news.jpg",
+            "source": "templates\/single-news.json",
+            "preview_url": "https:\/\/demo2.eightheme.com\/pristine\/template-kit\/single-news\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-post",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact Page",
+            "screenshot": "screenshots\/contact-page.jpg",
+            "source": "templates\/contact-page.json",
+            "preview_url": "https:\/\/demo2.eightheme.com\/pristine\/template-kit\/contact-page\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Single 404",
+            "screenshot": "screenshots\/single-404.jpg",
+            "source": "templates\/single-404.json",
+            "preview_url": "https:\/\/demo2.eightheme.com\/pristine\/template-kit\/single-404\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-404",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Elementor",
+            "version": "3.14.1",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "MetForm",
+            "version": "3.3.3",
+            "file": "metform\/metform.php",
+            "author": "Wpmet"
+        },
+        {
+            "name": "Elementor Header & Footer Builder",
+            "version": "1.6.14",
+            "file": "header-footer-elementor\/header-footer-elementor.php",
+            "author": "Brainstorm Force, Nikhil Chavan"
+        },
+        {
+            "name": "Premium Addons for Elementor",
+            "version": "4.10.1",
+            "file": "premium-addons-for-elementor\/premium-addons-for-elementor.php",
+            "author": "Leap13"
+        }
+    ],
+    "images": [
+        {
+            "filename": "Pristine-3.png",
+            "thumbnail_url": "https:\/\/demo2.eightheme.com\/pristine\/wp-content\/uploads\/sites\/13\/2023\/04\/Pristine-3-800x171.png",
+            "templates": [
+                {
+                    "source": "templates\/hfb-header.json",
+                    "name": "HFB - Header"
+                },
+                {
+                    "source": "templates\/hfb-footer.json",
+                    "name": "HFB - Footer"
+                }
+            ],
+            "filesize": 33232,
+            "dimensions": [
+                1931,
+                412
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/wepik.com\/share\/857e81b4-df7e-459c-aa8d-bd2e93faba61"
+        },
+        {
+            "filename": "Divider-Hero-4.png",
+            "thumbnail_url": "https:\/\/demo2.eightheme.com\/pristine\/wp-content\/uploads\/sites\/13\/2023\/04\/Divider-Hero-4-800x424.png",
+            "templates": [
+                {
+                    "source": "templates\/hfb-footer.json",
+                    "name": "HFB - Footer"
+                }
+            ],
+            "filesize": 10934,
+            "dimensions": [
+                1920,
+                1017
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "19-2.jpg",
+            "thumbnail_url": "https:\/\/demo2.eightheme.com\/pristine\/wp-content\/uploads\/sites\/13\/2023\/04\/19-2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/pristine-testimonial.json",
+                    "name": "Pristine - Testimonial"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/about-page.json",
+                    "name": "About Page"
+                },
+                {
+                    "source": "templates\/service-page.json",
+                    "name": "Service Page"
+                },
+                {
+                    "source": "templates\/portfolio-page.json",
+                    "name": "Portfolio Page"
+                },
+                {
+                    "source": "templates\/news-page.json",
+                    "name": "News Page"
+                },
+                {
+                    "source": "templates\/single-news.json",
+                    "name": "Single News"
+                },
+                {
+                    "source": "templates\/contact-page.json",
+                    "name": "Contact Page"
+                },
+                {
+                    "source": "templates\/single-404.json",
+                    "name": "Single 404"
+                }
+            ],
+            "filesize": 43616,
+            "dimensions": [
+                800,
+                800
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/happy-young-male-blogger-unpacking-parcel-with-new-MGFHUXD"
+        },
+        {
+            "filename": "1-1.jpg",
+            "thumbnail_url": "https:\/\/demo2.eightheme.com\/pristine\/wp-content\/uploads\/sites\/13\/2023\/04\/1-1-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 134165,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/family-cleaning-the-room-8RLN93N"
+        },
+        {
+            "filename": "13.jpg",
+            "thumbnail_url": "https:\/\/demo2.eightheme.com\/pristine\/wp-content\/uploads\/sites\/13\/2023\/04\/13.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/about-page.json",
+                    "name": "About Page"
+                },
+                {
+                    "source": "templates\/service-page.json",
+                    "name": "Service Page"
+                },
+                {
+                    "source": "templates\/portfolio-page.json",
+                    "name": "Portfolio Page"
+                },
+                {
+                    "source": "templates\/news-page.json",
+                    "name": "News Page"
+                },
+                {
+                    "source": "templates\/single-news.json",
+                    "name": "Single News"
+                },
+                {
+                    "source": "templates\/contact-page.json",
+                    "name": "Contact Page"
+                },
+                {
+                    "source": "templates\/single-404.json",
+                    "name": "Single 404"
+                }
+            ],
+            "filesize": 59225,
+            "dimensions": [
+                800,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/pleased-cheerful-female-economist-develops-financi-ZCKQAKM"
+        },
+        {
+            "filename": "21-2-1.jpg",
+            "thumbnail_url": "https:\/\/demo2.eightheme.com\/pristine\/wp-content\/uploads\/sites\/13\/2023\/04\/21-2-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/about-page.json",
+                    "name": "About Page"
+                },
+                {
+                    "source": "templates\/service-page.json",
+                    "name": "Service Page"
+                },
+                {
+                    "source": "templates\/portfolio-page.json",
+                    "name": "Portfolio Page"
+                },
+                {
+                    "source": "templates\/news-page.json",
+                    "name": "News Page"
+                },
+                {
+                    "source": "templates\/single-news.json",
+                    "name": "Single News"
+                },
+                {
+                    "source": "templates\/contact-page.json",
+                    "name": "Contact Page"
+                },
+                {
+                    "source": "templates\/single-404.json",
+                    "name": "Single 404"
+                }
+            ],
+            "filesize": 36693,
+            "dimensions": [
+                800,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": " https:\/\/elements.envato.com\/young-female-blogger-in-coffee-shop-with-laptop-co-SJVHLPZ"
+        },
+        {
+            "filename": "20-2.jpg",
+            "thumbnail_url": "https:\/\/demo2.eightheme.com\/pristine\/wp-content\/uploads\/sites\/13\/2023\/04\/20-2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/about-page.json",
+                    "name": "About Page"
+                },
+                {
+                    "source": "templates\/service-page.json",
+                    "name": "Service Page"
+                },
+                {
+                    "source": "templates\/portfolio-page.json",
+                    "name": "Portfolio Page"
+                },
+                {
+                    "source": "templates\/news-page.json",
+                    "name": "News Page"
+                },
+                {
+                    "source": "templates\/single-news.json",
+                    "name": "Single News"
+                },
+                {
+                    "source": "templates\/contact-page.json",
+                    "name": "Contact Page"
+                },
+                {
+                    "source": "templates\/single-404.json",
+                    "name": "Single 404"
+                }
+            ],
+            "filesize": 63201,
+            "dimensions": [
+                800,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/food-blogger-preparing-pizza-at-kitchen-7G8G2XN"
+        },
+        {
+            "filename": "2.jpg",
+            "thumbnail_url": "https:\/\/demo2.eightheme.com\/pristine\/wp-content\/uploads\/sites\/13\/2023\/04\/2-800x548.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/about-page.json",
+                    "name": "About Page"
+                },
+                {
+                    "source": "templates\/service-page.json",
+                    "name": "Service Page"
+                },
+                {
+                    "source": "templates\/portfolio-page.json",
+                    "name": "Portfolio Page"
+                }
+            ],
+            "filesize": 141448,
+            "dimensions": [
+                1920,
+                1314
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/family-cleaning-the-room-4EEGNGT"
+        },
+        {
+            "filename": "3.jpg",
+            "thumbnail_url": "https:\/\/demo2.eightheme.com\/pristine\/wp-content\/uploads\/sites\/13\/2023\/04\/3-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/about-page.json",
+                    "name": "About Page"
+                },
+                {
+                    "source": "templates\/service-page.json",
+                    "name": "Service Page"
+                },
+                {
+                    "source": "templates\/portfolio-page.json",
+                    "name": "Portfolio Page"
+                }
+            ],
+            "filesize": 122356,
+            "dimensions": [
+                1920,
+                1281
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/woman-is-doing-laundry-ED2HYA9"
+        },
+        {
+            "filename": "4.jpg",
+            "thumbnail_url": "https:\/\/demo2.eightheme.com\/pristine\/wp-content\/uploads\/sites\/13\/2023\/04\/4-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/service-page.json",
+                    "name": "Service Page"
+                },
+                {
+                    "source": "templates\/portfolio-page.json",
+                    "name": "Portfolio Page"
+                }
+            ],
+            "filesize": 139479,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/woman-is-doing-laundry-TDGEV4A"
+        },
+        {
+            "filename": "6.jpg",
+            "thumbnail_url": "https:\/\/demo2.eightheme.com\/pristine\/wp-content\/uploads\/sites\/13\/2023\/04\/6-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/about-page.json",
+                    "name": "About Page"
+                },
+                {
+                    "source": "templates\/service-page.json",
+                    "name": "Service Page"
+                },
+                {
+                    "source": "templates\/portfolio-page.json",
+                    "name": "Portfolio Page"
+                }
+            ],
+            "filesize": 95975,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/woman-doing-laundry-Z53URTP"
+        },
+        {
+            "filename": "7.jpg",
+            "thumbnail_url": "https:\/\/demo2.eightheme.com\/pristine\/wp-content\/uploads\/sites\/13\/2023\/04\/7-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 161579,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/woman-is-doing-laundry-643BFX9"
+        },
+        {
+            "filename": "8.jpg",
+            "thumbnail_url": "https:\/\/demo2.eightheme.com\/pristine\/wp-content\/uploads\/sites\/13\/2023\/04\/8-800x538.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/about-page.json",
+                    "name": "About Page"
+                },
+                {
+                    "source": "templates\/service-page.json",
+                    "name": "Service Page"
+                }
+            ],
+            "filesize": 138903,
+            "dimensions": [
+                1920,
+                1292
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/family-cleaning-the-room-9WYG9PM"
+        },
+        {
+            "filename": "9.jpg",
+            "thumbnail_url": "https:\/\/demo2.eightheme.com\/pristine\/wp-content\/uploads\/sites\/13\/2023\/04\/9-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/about-page.json",
+                    "name": "About Page"
+                },
+                {
+                    "source": "templates\/service-page.json",
+                    "name": "Service Page"
+                },
+                {
+                    "source": "templates\/news-page.json",
+                    "name": "News Page"
+                }
+            ],
+            "filesize": 170256,
+            "dimensions": [
+                1920,
+                1281
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/grandma-and-child-are-doing-laundry-593Q8MT"
+        },
+        {
+            "filename": "10.jpg",
+            "thumbnail_url": "https:\/\/demo2.eightheme.com\/pristine\/wp-content\/uploads\/sites\/13\/2023\/04\/10-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/service-page.json",
+                    "name": "Service Page"
+                }
+            ],
+            "filesize": 83917,
+            "dimensions": [
+                1920,
+                1281
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/woman-in-cleaner-apron-holding-bucket-of-detergent-28WSXH2"
+        },
+        {
+            "filename": "11.jpg",
+            "thumbnail_url": "https:\/\/demo2.eightheme.com\/pristine\/wp-content\/uploads\/sites\/13\/2023\/04\/11-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/service-page.json",
+                    "name": "Service Page"
+                }
+            ],
+            "filesize": 78506,
+            "dimensions": [
+                1920,
+                1281
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/woman-in-apron-holding-index-finger-up-with-new-id-YL3FYBV"
+        },
+        {
+            "filename": "12.jpg",
+            "thumbnail_url": "https:\/\/demo2.eightheme.com\/pristine\/wp-content\/uploads\/sites\/13\/2023\/04\/12-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/service-page.json",
+                    "name": "Service Page"
+                }
+            ],
+            "filesize": 69365,
+            "dimensions": [
+                1920,
+                1281
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/woman-in-yellow-rubber-gloves-pointing-fingers-asi-LA27U8M"
+        },
+        {
+            "filename": "13-1.jpg",
+            "thumbnail_url": "https:\/\/demo2.eightheme.com\/pristine\/wp-content\/uploads\/sites\/13\/2023\/04\/13-1-800x566.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/service-page.json",
+                    "name": "Service Page"
+                },
+                {
+                    "source": "templates\/portfolio-page.json",
+                    "name": "Portfolio Page"
+                }
+            ],
+            "filesize": 106322,
+            "dimensions": [
+                1920,
+                1358
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/free-photo\/crumpled-white-paperboard_6066510.htm#&position=1&from_view=undefined"
+        },
+        {
+            "filename": "22-1.jpg",
+            "thumbnail_url": "https:\/\/demo2.eightheme.com\/pristine\/wp-content\/uploads\/sites\/13\/2023\/04\/22-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/service-page.json",
+                    "name": "Service Page"
+                },
+                {
+                    "source": "templates\/portfolio-page.json",
+                    "name": "Portfolio Page"
+                }
+            ],
+            "filesize": 67908,
+            "dimensions": [
+                800,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/an-older-man-with-a-laptop-stands-in-a-park-or-pub-D3Y9ZV6"
+        },
+        {
+            "filename": "24.png",
+            "thumbnail_url": "https:\/\/demo2.eightheme.com\/pristine\/wp-content\/uploads\/sites\/13\/2023\/04\/24.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/service-page.json",
+                    "name": "Service Page"
+                },
+                {
+                    "source": "templates\/portfolio-page.json",
+                    "name": "Portfolio Page"
+                }
+            ],
+            "filesize": 931653,
+            "dimensions": [
+                800,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "* https:\/\/elements.envato.com\/mature-businesswoman-at-desk-X4U8NBD"
+        },
+        {
+            "filename": "23-1-1.jpg",
+            "thumbnail_url": "https:\/\/demo2.eightheme.com\/pristine\/wp-content\/uploads\/sites\/13\/2023\/04\/23-1-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/service-page.json",
+                    "name": "Service Page"
+                },
+                {
+                    "source": "templates\/portfolio-page.json",
+                    "name": "Portfolio Page"
+                }
+            ],
+            "filesize": 34712,
+            "dimensions": [
+                800,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/software-developer-ready-to-go-home-7VKX6CN"
+        },
+        {
+            "filename": "15.jpg",
+            "thumbnail_url": "https:\/\/demo2.eightheme.com\/pristine\/wp-content\/uploads\/sites\/13\/2022\/04\/15-800x551.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-page.json",
+                    "name": "About Page"
+                },
+                {
+                    "source": "templates\/single-news.json",
+                    "name": "Single News"
+                }
+            ],
+            "filesize": 116626,
+            "dimensions": [
+                1920,
+                1322
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/woman-is-doing-the-cleaning-6ETSS23"
+        },
+        {
+            "filename": "17.jpg",
+            "thumbnail_url": "https:\/\/demo2.eightheme.com\/pristine\/wp-content\/uploads\/sites\/13\/2023\/04\/17-800x437.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-page.json",
+                    "name": "About Page"
+                }
+            ],
+            "filesize": 97188,
+            "dimensions": [
+                1920,
+                1049
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/woman-working-in-office-C5Y5L9C"
+        },
+        {
+            "filename": "18-2.jpg",
+            "thumbnail_url": "https:\/\/demo2.eightheme.com\/pristine\/wp-content\/uploads\/sites\/13\/2023\/04\/18-2-800x501.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-page.json",
+                    "name": "About Page"
+                }
+            ],
+            "filesize": 110374,
+            "dimensions": [
+                1920,
+                1202
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/woman-working-in-the-office-YVGGGWC"
+        },
+        {
+            "filename": "19-2-1.jpg",
+            "thumbnail_url": "https:\/\/demo2.eightheme.com\/pristine\/wp-content\/uploads\/sites\/13\/2023\/04\/19-2-1-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-page.json",
+                    "name": "About Page"
+                }
+            ],
+            "filesize": 72748,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/woman-working-in-the-office-C8KEZGB"
+        },
+        {
+            "filename": "16.jpg",
+            "thumbnail_url": "https:\/\/demo2.eightheme.com\/pristine\/wp-content\/uploads\/sites\/13\/2022\/04\/16-800x541.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-page.json",
+                    "name": "About Page"
+                },
+                {
+                    "source": "templates\/service-page.json",
+                    "name": "Service Page"
+                },
+                {
+                    "source": "templates\/single-404.json",
+                    "name": "Single 404"
+                }
+            ],
+            "filesize": 172708,
+            "dimensions": [
+                1920,
+                1298
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/family-doing-laundry-at-home-7NTFLEH"
+        },
+        {
+            "filename": "14.jpg",
+            "thumbnail_url": "https:\/\/demo2.eightheme.com\/pristine\/wp-content\/uploads\/sites\/13\/2022\/04\/14-800x532.jpg",
+            "templates": [
+                {
+                    "source": "templates\/portfolio-page.json",
+                    "name": "Portfolio Page"
+                },
+                {
+                    "source": "templates\/contact-page.json",
+                    "name": "Contact Page"
+                }
+            ],
+            "filesize": 116549,
+            "dimensions": [
+                1920,
+                1277
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/mature-cleaning-service-cleaner-woman-housewife-QHH7MVH"
+        },
+        {
+            "filename": "21.png",
+            "thumbnail_url": "https:\/\/demo2.eightheme.com\/pristine\/wp-content\/uploads\/sites\/13\/2023\/04\/21-800x171.png",
+            "templates": [
+                {
+                    "source": "templates\/contact-page.json",
+                    "name": "Contact Page"
+                }
+            ],
+            "filesize": 23558,
+            "dimensions": [
+                1931,
+                412
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/wepik.com\/share\/857e81b4-df7e-459c-aa8d-bd2e93faba61"
+        }
+    ]
+}

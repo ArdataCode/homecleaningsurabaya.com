@@ -1,0 +1,1973 @@
+{
+    "manifest_version": "1.0.21",
+    "title": "Cleanzone - Cleaning Services Elementor Template Kit",
+    "page_builder": "elementor",
+    "kit_version": "1.1.0",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.jpg",
+            "source": "templates\/global.json",
+            "preview_url": "https:\/\/cleanzone.1onestrong.com",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": null,
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Header",
+            "screenshot": "screenshots\/header.jpg",
+            "source": "templates\/header.json",
+            "preview_url": "https:\/\/cleanzone.1onestrong.com\/template-kit\/header\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Footer",
+            "screenshot": "screenshots\/footer.jpg",
+            "source": "templates\/footer.json",
+            "preview_url": "https:\/\/cleanzone.1onestrong.com\/template-kit\/footer\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Checkpricing - Section - metform",
+            "screenshot": "screenshots\/checkpricing-section-metform.png",
+            "source": "templates\/checkpricing-section-metform.json",
+            "preview_url": "https:\/\/cleanzone.1onestrong.com\/template-kit\/checkpricing-section-metform\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-pricing",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact \u2013 Section \u2013 Metform",
+            "screenshot": "screenshots\/contact-section-metform.png",
+            "source": "templates\/contact-section-metform.json",
+            "preview_url": "https:\/\/cleanzone.1onestrong.com\/template-kit\/contact-section-metform\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-contact",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home - 01",
+            "screenshot": "screenshots\/home-01.jpg",
+            "source": "templates\/home-01.json",
+            "preview_url": "https:\/\/cleanzone.1onestrong.com\/template-kit\/home-01\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home - 02",
+            "screenshot": "screenshots\/home-02.jpg",
+            "source": "templates\/home-02.json",
+            "preview_url": "https:\/\/cleanzone.1onestrong.com\/template-kit\/home-02\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Services",
+            "screenshot": "screenshots\/services.jpg",
+            "source": "templates\/services.json",
+            "preview_url": "https:\/\/cleanzone.1onestrong.com\/template-kit\/services\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Services Detail",
+            "screenshot": "screenshots\/services-detail.jpg",
+            "source": "templates\/services-detail.json",
+            "preview_url": "https:\/\/cleanzone.1onestrong.com\/template-kit\/services-detail\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About",
+            "screenshot": "screenshots\/about.jpg",
+            "source": "templates\/about.json",
+            "preview_url": "https:\/\/cleanzone.1onestrong.com\/template-kit\/about\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Our Team",
+            "screenshot": "screenshots\/our-team.jpg",
+            "source": "templates\/our-team.json",
+            "preview_url": "https:\/\/cleanzone.1onestrong.com\/template-kit\/our-team\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Review",
+            "screenshot": "screenshots\/review.jpg",
+            "source": "templates\/review.json",
+            "preview_url": "https:\/\/cleanzone.1onestrong.com\/template-kit\/review-2\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Pricing",
+            "screenshot": "screenshots\/pricing.jpg",
+            "source": "templates\/pricing.json",
+            "preview_url": "https:\/\/cleanzone.1onestrong.com\/template-kit\/pricing\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "FAQ",
+            "screenshot": "screenshots\/faq.jpg",
+            "source": "templates\/faq.json",
+            "preview_url": "https:\/\/cleanzone.1onestrong.com\/template-kit\/review\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "404",
+            "screenshot": "screenshots\/404.jpg",
+            "source": "templates\/404.json",
+            "preview_url": "https:\/\/cleanzone.1onestrong.com\/template-kit\/404-2\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-404",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Blog",
+            "screenshot": "screenshots\/blog.jpg",
+            "source": "templates\/blog.json",
+            "preview_url": "https:\/\/cleanzone.1onestrong.com\/template-kit\/blog\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Single Post",
+            "screenshot": "screenshots\/single-post.jpg",
+            "source": "templates\/single-post.json",
+            "preview_url": "https:\/\/cleanzone.1onestrong.com\/template-kit\/single-post\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-post",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact",
+            "screenshot": "screenshots\/contact.jpg",
+            "source": "templates\/contact.json",
+            "preview_url": "https:\/\/cleanzone.1onestrong.com\/template-kit\/contact\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Table Pricing  \u2013 Section \u2013 01",
+            "screenshot": "screenshots\/table-pricing-section-01.jpg",
+            "source": "templates\/table-pricing-section-01.json",
+            "preview_url": "https:\/\/cleanzone.1onestrong.com\/template-kit\/table-pricing-01\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-pricing",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Table Pricing  \u2013 Section \u2013 02",
+            "screenshot": "screenshots\/table-pricing-section-02.jpg",
+            "source": "templates\/table-pricing-section-02.json",
+            "preview_url": "https:\/\/cleanzone.1onestrong.com\/template-kit\/table-pricing-02\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-pricing",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Table Pricing  \u2013 Section \u2013 03",
+            "screenshot": "screenshots\/table-pricing-section-03.jpg",
+            "source": "templates\/table-pricing-section-03.json",
+            "preview_url": "https:\/\/cleanzone.1onestrong.com\/template-kit\/table-pricing-03\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-pricing",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Elementor",
+            "version": "3.16.1",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "ElementsKit Lite",
+            "version": "2.9.2",
+            "file": "elementskit-lite\/elementskit-lite.php",
+            "author": "Wpmet"
+        },
+        {
+            "name": "Jeg Elementor Kit",
+            "version": "2.6.1",
+            "file": "jeg-elementor-kit\/jeg-elementor-kit.php",
+            "author": "Jegtheme"
+        },
+        {
+            "name": "MetForm",
+            "version": "3.4.1",
+            "file": "metform\/metform.php",
+            "author": "Wpmet"
+        }
+    ],
+    "images": [
+        {
+            "filename": "Logos-02.png",
+            "thumbnail_url": "https:\/\/cleanzone.1onestrong.com\/wp-content\/uploads\/2023\/08\/Logos-02.png",
+            "templates": [
+                {
+                    "source": "templates\/header.json",
+                    "name": "Header"
+                },
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                }
+            ],
+            "filesize": 48676,
+            "dimensions": [
+                607,
+                249
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/9USQRYHWGV"
+        },
+        {
+            "filename": "Logos-03.png",
+            "thumbnail_url": "https:\/\/cleanzone.1onestrong.com\/wp-content\/uploads\/2023\/07\/Logos-03.png",
+            "templates": [
+                {
+                    "source": "templates\/header.json",
+                    "name": "Header"
+                }
+            ],
+            "filesize": 12262,
+            "dimensions": [
+                607,
+                249
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/9USQRYHWGV"
+        },
+        {
+            "filename": "Asset-009.png",
+            "thumbnail_url": "https:\/\/cleanzone.1onestrong.com\/wp-content\/uploads\/2023\/08\/Asset-009.png",
+            "templates": [
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                },
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home - 01"
+                },
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home - 02"
+                },
+                {
+                    "source": "templates\/review.json",
+                    "name": "Review"
+                }
+            ],
+            "filesize": 17743,
+            "dimensions": [
+                750,
+                480
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Asset-0017.png",
+            "thumbnail_url": "https:\/\/cleanzone.1onestrong.com\/wp-content\/uploads\/2023\/08\/Asset-0017-800x450.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home - 01"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 8751,
+            "dimensions": [
+                1922,
+                1082
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Asset-0011.png",
+            "thumbnail_url": "https:\/\/cleanzone.1onestrong.com\/wp-content\/uploads\/2023\/08\/Asset-0011-800x636.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home - 01"
+                }
+            ],
+            "filesize": 268945,
+            "dimensions": [
+                1100,
+                874
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/9USQRYHWGV"
+        },
+        {
+            "filename": "Asset-003.png",
+            "thumbnail_url": "https:\/\/cleanzone.1onestrong.com\/wp-content\/uploads\/2023\/07\/Asset-003.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home - 01"
+                },
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home - 02"
+                },
+                {
+                    "source": "templates\/services-detail.json",
+                    "name": "Services Detail"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                }
+            ],
+            "filesize": 30420,
+            "dimensions": [
+                324,
+                324
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/9USQRYHWGV"
+        },
+        {
+            "filename": "Asset-006.png",
+            "thumbnail_url": "https:\/\/cleanzone.1onestrong.com\/wp-content\/uploads\/2023\/07\/Asset-006.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home - 01"
+                },
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home - 02"
+                },
+                {
+                    "source": "templates\/services-detail.json",
+                    "name": "Services Detail"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 25039,
+            "dimensions": [
+                324,
+                324
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/9USQRYHWGV"
+        },
+        {
+            "filename": "Asset-005.png",
+            "thumbnail_url": "https:\/\/cleanzone.1onestrong.com\/wp-content\/uploads\/2023\/07\/Asset-005.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home - 01"
+                },
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home - 02"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 17100,
+            "dimensions": [
+                324,
+                324
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/9USQRYHWGV"
+        },
+        {
+            "filename": "cleanzonejpg-01.jpg",
+            "thumbnail_url": "https:\/\/cleanzone.1onestrong.com\/wp-content\/uploads\/2023\/07\/cleanzonejpg-01-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home - 01"
+                },
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home - 02"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 132819,
+            "dimensions": [
+                1500,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/9USQRYHWGV"
+        },
+        {
+            "filename": "cleanzonejpg-02.jpg",
+            "thumbnail_url": "https:\/\/cleanzone.1onestrong.com\/wp-content\/uploads\/2023\/07\/cleanzonejpg-02-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home - 01"
+                },
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home - 02"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 91332,
+            "dimensions": [
+                1500,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/9USQRYHWGV"
+        },
+        {
+            "filename": "cleanzonejpg-03.jpg",
+            "thumbnail_url": "https:\/\/cleanzone.1onestrong.com\/wp-content\/uploads\/2023\/07\/cleanzonejpg-03-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home - 01"
+                },
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home - 02"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 92047,
+            "dimensions": [
+                1500,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/9USQRYHWGV"
+        },
+        {
+            "filename": "cleanzonejpg-04.jpg",
+            "thumbnail_url": "https:\/\/cleanzone.1onestrong.com\/wp-content\/uploads\/2023\/07\/cleanzonejpg-04-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home - 01"
+                },
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home - 02"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 96312,
+            "dimensions": [
+                1500,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/9USQRYHWGV"
+        },
+        {
+            "filename": "cleanzonejpg-0022.jpg",
+            "thumbnail_url": "https:\/\/cleanzone.1onestrong.com\/wp-content\/uploads\/2023\/08\/cleanzonejpg-0022-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home - 01"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                }
+            ],
+            "filesize": 126563,
+            "dimensions": [
+                1500,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/9USQRYHWGV"
+        },
+        {
+            "filename": "cleanzonejpg-0023.jpg",
+            "thumbnail_url": "https:\/\/cleanzone.1onestrong.com\/wp-content\/uploads\/2023\/08\/cleanzonejpg-0023-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home - 01"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                }
+            ],
+            "filesize": 78431,
+            "dimensions": [
+                1500,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/9USQRYHWGV"
+        },
+        {
+            "filename": "cleanzonejpg-0020.jpg",
+            "thumbnail_url": "https:\/\/cleanzone.1onestrong.com\/wp-content\/uploads\/2023\/08\/cleanzonejpg-0020-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home - 01"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 133990,
+            "dimensions": [
+                1500,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/9USQRYHWGV"
+        },
+        {
+            "filename": "cleanzonejpg-0021.jpg",
+            "thumbnail_url": "https:\/\/cleanzone.1onestrong.com\/wp-content\/uploads\/2023\/08\/cleanzonejpg-0021-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home - 01"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                }
+            ],
+            "filesize": 71148,
+            "dimensions": [
+                1500,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/9USQRYHWGV"
+        },
+        {
+            "filename": "Asset-0014.png",
+            "thumbnail_url": "https:\/\/cleanzone.1onestrong.com\/wp-content\/uploads\/2023\/08\/Asset-0014-800x450.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home - 01"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 6697,
+            "dimensions": [
+                1922,
+                1082
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Asset-004.png",
+            "thumbnail_url": "https:\/\/cleanzone.1onestrong.com\/wp-content\/uploads\/2023\/07\/Asset-004.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home - 01"
+                },
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home - 02"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 15397,
+            "dimensions": [
+                324,
+                324
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/9USQRYHWGV"
+        },
+        {
+            "filename": "Asset-002.png",
+            "thumbnail_url": "https:\/\/cleanzone.1onestrong.com\/wp-content\/uploads\/2023\/07\/Asset-002.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home - 01"
+                },
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home - 02"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/blog.json",
+                    "name": "Blog"
+                }
+            ],
+            "filesize": 254602,
+            "dimensions": [
+                750,
+                1205
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/9USQRYHWGV"
+        },
+        {
+            "filename": "cleanzonejpg-0011.jpg",
+            "thumbnail_url": "https:\/\/cleanzone.1onestrong.com\/wp-content\/uploads\/2023\/08\/cleanzonejpg-0011-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home - 01"
+                },
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home - 02"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 120873,
+            "dimensions": [
+                1500,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/9USQRYHWGV"
+        },
+        {
+            "filename": "testimonial-img-02.jpg",
+            "thumbnail_url": "https:\/\/cleanzone.1onestrong.com\/wp-content\/uploads\/2023\/07\/testimonial-img-02.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home - 01"
+                },
+                {
+                    "source": "templates\/review.json",
+                    "name": "Review"
+                }
+            ],
+            "filesize": 37642,
+            "dimensions": [
+                700,
+                700
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/9USQRYHWGV"
+        },
+        {
+            "filename": "Asset-007.png",
+            "thumbnail_url": "https:\/\/cleanzone.1onestrong.com\/wp-content\/uploads\/2023\/07\/Asset-007.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home - 01"
+                },
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home - 02"
+                },
+                {
+                    "source": "templates\/review.json",
+                    "name": "Review"
+                }
+            ],
+            "filesize": 7980,
+            "dimensions": [
+                217,
+                217
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "testimonial-img-05.jpg",
+            "thumbnail_url": "https:\/\/cleanzone.1onestrong.com\/wp-content\/uploads\/2023\/07\/testimonial-img-05.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home - 01"
+                },
+                {
+                    "source": "templates\/review.json",
+                    "name": "Review"
+                }
+            ],
+            "filesize": 28597,
+            "dimensions": [
+                700,
+                700
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/9USQRYHWGV"
+        },
+        {
+            "filename": "testimonial-img-03.jpg",
+            "thumbnail_url": "https:\/\/cleanzone.1onestrong.com\/wp-content\/uploads\/2023\/07\/testimonial-img-03.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home - 01"
+                },
+                {
+                    "source": "templates\/review.json",
+                    "name": "Review"
+                }
+            ],
+            "filesize": 38628,
+            "dimensions": [
+                700,
+                700
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/9USQRYHWGV"
+        },
+        {
+            "filename": "cleanzonejpg-0016.jpg",
+            "thumbnail_url": "https:\/\/cleanzone.1onestrong.com\/wp-content\/uploads\/2023\/08\/cleanzonejpg-0016-800x331.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home - 01"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 61360,
+            "dimensions": [
+                1909,
+                789
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/9USQRYHWGV"
+        },
+        {
+            "filename": "Asset-0020.png",
+            "thumbnail_url": "https:\/\/cleanzone.1onestrong.com\/wp-content\/uploads\/2023\/08\/Asset-0020.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home - 01"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 19652,
+            "dimensions": [
+                512,
+                512
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/9USQRYHWGV"
+        },
+        {
+            "filename": "Asset-0021.png",
+            "thumbnail_url": "https:\/\/cleanzone.1onestrong.com\/wp-content\/uploads\/2023\/08\/Asset-0021.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home - 01"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 24809,
+            "dimensions": [
+                512,
+                512
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/9USQRYHWGV"
+        },
+        {
+            "filename": "Asset-0022.png",
+            "thumbnail_url": "https:\/\/cleanzone.1onestrong.com\/wp-content\/uploads\/2023\/08\/Asset-0022.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home - 01"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 19709,
+            "dimensions": [
+                512,
+                512
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/9USQRYHWGV"
+        },
+        {
+            "filename": "Asset-0025.png",
+            "thumbnail_url": "https:\/\/cleanzone.1onestrong.com\/wp-content\/uploads\/2023\/08\/Asset-0025.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home - 01"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 14907,
+            "dimensions": [
+                512,
+                512
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/9USQRYHWGV"
+        },
+        {
+            "filename": "Asset-0024.png",
+            "thumbnail_url": "https:\/\/cleanzone.1onestrong.com\/wp-content\/uploads\/2023\/08\/Asset-0024.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home - 01"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 31971,
+            "dimensions": [
+                512,
+                512
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/9USQRYHWGV"
+        },
+        {
+            "filename": "Asset-0023.png",
+            "thumbnail_url": "https:\/\/cleanzone.1onestrong.com\/wp-content\/uploads\/2023\/08\/Asset-0023.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home - 01"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 12625,
+            "dimensions": [
+                512,
+                512
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/9USQRYHWGV"
+        },
+        {
+            "filename": "logo-preview-10.png",
+            "thumbnail_url": "https:\/\/cleanzone.1onestrong.com\/wp-content\/uploads\/2023\/07\/logo-preview-10-800x337.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home - 01"
+                },
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home - 02"
+                }
+            ],
+            "filesize": 9864,
+            "dimensions": [
+                992,
+                418
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "logo-preview-2.png",
+            "thumbnail_url": "https:\/\/cleanzone.1onestrong.com\/wp-content\/uploads\/2023\/07\/logo-preview-2-800x337.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home - 01"
+                },
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home - 02"
+                }
+            ],
+            "filesize": 11375,
+            "dimensions": [
+                992,
+                418
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "logo-preview-3.png",
+            "thumbnail_url": "https:\/\/cleanzone.1onestrong.com\/wp-content\/uploads\/2023\/07\/logo-preview-3-800x337.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home - 01"
+                },
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home - 02"
+                }
+            ],
+            "filesize": 11701,
+            "dimensions": [
+                992,
+                418
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "logo-preview-4.png",
+            "thumbnail_url": "https:\/\/cleanzone.1onestrong.com\/wp-content\/uploads\/2023\/07\/logo-preview-4-800x337.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home - 01"
+                },
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home - 02"
+                }
+            ],
+            "filesize": 10854,
+            "dimensions": [
+                992,
+                418
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "logo-preview-6.png",
+            "thumbnail_url": "https:\/\/cleanzone.1onestrong.com\/wp-content\/uploads\/2023\/07\/logo-preview-6-800x337.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home - 01"
+                },
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home - 02"
+                }
+            ],
+            "filesize": 10850,
+            "dimensions": [
+                992,
+                418
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "logo-preview-7.png",
+            "thumbnail_url": "https:\/\/cleanzone.1onestrong.com\/wp-content\/uploads\/2023\/07\/logo-preview-7-800x337.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home - 01"
+                },
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home - 02"
+                }
+            ],
+            "filesize": 8881,
+            "dimensions": [
+                992,
+                418
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "logo-preview-8.png",
+            "thumbnail_url": "https:\/\/cleanzone.1onestrong.com\/wp-content\/uploads\/2023\/07\/logo-preview-8-800x337.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home - 01"
+                },
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home - 02"
+                }
+            ],
+            "filesize": 8856,
+            "dimensions": [
+                992,
+                418
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "logo-preview-1.png",
+            "thumbnail_url": "https:\/\/cleanzone.1onestrong.com\/wp-content\/uploads\/2023\/07\/logo-preview-1-800x337.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home - 01"
+                },
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home - 02"
+                }
+            ],
+            "filesize": 14022,
+            "dimensions": [
+                992,
+                418
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "logo-preview-5.png",
+            "thumbnail_url": "https:\/\/cleanzone.1onestrong.com\/wp-content\/uploads\/2023\/07\/logo-preview-5-800x337.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home - 01"
+                },
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home - 02"
+                }
+            ],
+            "filesize": 10301,
+            "dimensions": [
+                992,
+                418
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Heros-01.jpg",
+            "thumbnail_url": "https:\/\/cleanzone.1onestrong.com\/wp-content\/uploads\/2023\/07\/Heros-01-800x416.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home - 02"
+                }
+            ],
+            "filesize": 179597,
+            "dimensions": [
+                1920,
+                998
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/9USQRYHWGV"
+        },
+        {
+            "filename": "Heros-03.jpg",
+            "thumbnail_url": "https:\/\/cleanzone.1onestrong.com\/wp-content\/uploads\/2023\/08\/Heros-03.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home - 02"
+                }
+            ],
+            "filesize": 61904,
+            "dimensions": [
+                655,
+                1087
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/9USQRYHWGV"
+        },
+        {
+            "filename": "cleanzonejpg-0012.jpg",
+            "thumbnail_url": "https:\/\/cleanzone.1onestrong.com\/wp-content\/uploads\/2023\/08\/cleanzonejpg-0012-800x627.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home - 02"
+                }
+            ],
+            "filesize": 93999,
+            "dimensions": [
+                1500,
+                1176
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/9USQRYHWGV"
+        },
+        {
+            "filename": "testimonial-img-06.jpg",
+            "thumbnail_url": "https:\/\/cleanzone.1onestrong.com\/wp-content\/uploads\/2023\/07\/testimonial-img-06.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home - 02"
+                },
+                {
+                    "source": "templates\/review.json",
+                    "name": "Review"
+                }
+            ],
+            "filesize": 39034,
+            "dimensions": [
+                700,
+                700
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/9USQRYHWGV"
+        },
+        {
+            "filename": "testimonial-img-04.jpg",
+            "thumbnail_url": "https:\/\/cleanzone.1onestrong.com\/wp-content\/uploads\/2023\/07\/testimonial-img-04.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home - 02"
+                },
+                {
+                    "source": "templates\/review.json",
+                    "name": "Review"
+                }
+            ],
+            "filesize": 24945,
+            "dimensions": [
+                700,
+                700
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/9USQRYHWGV"
+        },
+        {
+            "filename": "cleanzonejpg-0024.jpg",
+            "thumbnail_url": "https:\/\/cleanzone.1onestrong.com\/wp-content\/uploads\/2023\/08\/cleanzonejpg-0024-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                }
+            ],
+            "filesize": 192206,
+            "dimensions": [
+                1500,
+                999
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/9USQRYHWGV"
+        },
+        {
+            "filename": "cleanzonejpg-0027.jpg",
+            "thumbnail_url": "https:\/\/cleanzone.1onestrong.com\/wp-content\/uploads\/2023\/08\/cleanzonejpg-0027-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 105249,
+            "dimensions": [
+                1500,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/9USQRYHWGV"
+        },
+        {
+            "filename": "cleanzonejpg-0025.jpg",
+            "thumbnail_url": "https:\/\/cleanzone.1onestrong.com\/wp-content\/uploads\/2023\/08\/cleanzonejpg-0025-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 140754,
+            "dimensions": [
+                1500,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/9USQRYHWGV"
+        },
+        {
+            "filename": "cleanzonejpg-0026.jpg",
+            "thumbnail_url": "https:\/\/cleanzone.1onestrong.com\/wp-content\/uploads\/2023\/08\/cleanzonejpg-0026-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 101504,
+            "dimensions": [
+                1500,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/9USQRYHWGV"
+        },
+        {
+            "filename": "cleanzonejpg-0037.jpg",
+            "thumbnail_url": "https:\/\/cleanzone.1onestrong.com\/wp-content\/uploads\/2023\/08\/cleanzonejpg-0037-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/services-detail.json",
+                    "name": "Services Detail"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/review.json",
+                    "name": "Review"
+                }
+            ],
+            "filesize": 80810,
+            "dimensions": [
+                1500,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/9USQRYHWGV"
+        },
+        {
+            "filename": "cleanzonejpg-0033.jpg",
+            "thumbnail_url": "https:\/\/cleanzone.1onestrong.com\/wp-content\/uploads\/2023\/08\/cleanzonejpg-0033-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/services-detail.json",
+                    "name": "Services Detail"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/review.json",
+                    "name": "Review"
+                }
+            ],
+            "filesize": 202854,
+            "dimensions": [
+                1500,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/9USQRYHWGV"
+        },
+        {
+            "filename": "cleanzonejpg-0032.jpg",
+            "thumbnail_url": "https:\/\/cleanzone.1onestrong.com\/wp-content\/uploads\/2023\/08\/cleanzonejpg-0032-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/services-detail.json",
+                    "name": "Services Detail"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/review.json",
+                    "name": "Review"
+                }
+            ],
+            "filesize": 102503,
+            "dimensions": [
+                1500,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/9USQRYHWGV"
+        },
+        {
+            "filename": "cleanzonejpg-0036.jpg",
+            "thumbnail_url": "https:\/\/cleanzone.1onestrong.com\/wp-content\/uploads\/2023\/08\/cleanzonejpg-0036-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/services-detail.json",
+                    "name": "Services Detail"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/review.json",
+                    "name": "Review"
+                }
+            ],
+            "filesize": 137539,
+            "dimensions": [
+                1500,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/9USQRYHWGV"
+        },
+        {
+            "filename": "cleanzonejpg-0039-1.jpg",
+            "thumbnail_url": "https:\/\/cleanzone.1onestrong.com\/wp-content\/uploads\/2023\/08\/cleanzonejpg-0039-1-800x331.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services-detail.json",
+                    "name": "Services Detail"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                }
+            ],
+            "filesize": 52897,
+            "dimensions": [
+                1909,
+                789
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/9USQRYHWGV"
+        },
+        {
+            "filename": "cleanzonejpg-0028.jpg",
+            "thumbnail_url": "https:\/\/cleanzone.1onestrong.com\/wp-content\/uploads\/2023\/08\/cleanzonejpg-0028-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services-detail.json",
+                    "name": "Services Detail"
+                }
+            ],
+            "filesize": 112080,
+            "dimensions": [
+                1500,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/9USQRYHWGV"
+        },
+        {
+            "filename": "cleanzonejpg-0029.jpg",
+            "thumbnail_url": "https:\/\/cleanzone.1onestrong.com\/wp-content\/uploads\/2023\/08\/cleanzonejpg-0029-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services-detail.json",
+                    "name": "Services Detail"
+                }
+            ],
+            "filesize": 134037,
+            "dimensions": [
+                1500,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/9USQRYHWGV"
+        },
+        {
+            "filename": "cleanzonejpg-0030.jpg",
+            "thumbnail_url": "https:\/\/cleanzone.1onestrong.com\/wp-content\/uploads\/2023\/08\/cleanzonejpg-0030-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services-detail.json",
+                    "name": "Services Detail"
+                }
+            ],
+            "filesize": 139195,
+            "dimensions": [
+                1500,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/9USQRYHWGV"
+        },
+        {
+            "filename": "cleanzonejpg-0031.jpg",
+            "thumbnail_url": "https:\/\/cleanzone.1onestrong.com\/wp-content\/uploads\/2023\/08\/cleanzonejpg-0031-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services-detail.json",
+                    "name": "Services Detail"
+                }
+            ],
+            "filesize": 116829,
+            "dimensions": [
+                1500,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/9USQRYHWGV"
+        },
+        {
+            "filename": "cleanzonejpg-0035.jpg",
+            "thumbnail_url": "https:\/\/cleanzone.1onestrong.com\/wp-content\/uploads\/2023\/08\/cleanzonejpg-0035-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services-detail.json",
+                    "name": "Services Detail"
+                }
+            ],
+            "filesize": 92154,
+            "dimensions": [
+                1500,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/9USQRYHWGV"
+        },
+        {
+            "filename": "cleanzonejpg-0034.jpg",
+            "thumbnail_url": "https:\/\/cleanzone.1onestrong.com\/wp-content\/uploads\/2023\/08\/cleanzonejpg-0034-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services-detail.json",
+                    "name": "Services Detail"
+                }
+            ],
+            "filesize": 106282,
+            "dimensions": [
+                1500,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/9USQRYHWGV"
+        },
+        {
+            "filename": "cleanzonejpg-0018.jpg",
+            "thumbnail_url": "https:\/\/cleanzone.1onestrong.com\/wp-content\/uploads\/2023\/08\/cleanzonejpg-0018-800x303.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 91667,
+            "dimensions": [
+                1909,
+                724
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/9USQRYHWGV"
+        },
+        {
+            "filename": "Teams-01.jpg",
+            "thumbnail_url": "https:\/\/cleanzone.1onestrong.com\/wp-content\/uploads\/2023\/08\/Teams-01-800x954.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 64059,
+            "dimensions": [
+                902,
+                1076
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/9USQRYHWGV"
+        },
+        {
+            "filename": "Teams-02.jpg",
+            "thumbnail_url": "https:\/\/cleanzone.1onestrong.com\/wp-content\/uploads\/2023\/08\/Teams-02-800x955.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 60313,
+            "dimensions": [
+                902,
+                1077
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/9USQRYHWGV"
+        },
+        {
+            "filename": "Teams-07.jpg",
+            "thumbnail_url": "https:\/\/cleanzone.1onestrong.com\/wp-content\/uploads\/2023\/08\/Teams-07-800x955.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 79322,
+            "dimensions": [
+                902,
+                1077
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/9USQRYHWGV"
+        },
+        {
+            "filename": "Teams-03.jpg",
+            "thumbnail_url": "https:\/\/cleanzone.1onestrong.com\/wp-content\/uploads\/2023\/08\/Teams-03-800x955.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 77359,
+            "dimensions": [
+                902,
+                1077
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/9USQRYHWGV"
+        },
+        {
+            "filename": "cleanzonejpg-0038.jpg",
+            "thumbnail_url": "https:\/\/cleanzone.1onestrong.com\/wp-content\/uploads\/2023\/08\/cleanzonejpg-0038-800x331.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 67578,
+            "dimensions": [
+                1909,
+                789
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/9USQRYHWGV"
+        },
+        {
+            "filename": "cleanzonejpg-0040.jpg",
+            "thumbnail_url": "https:\/\/cleanzone.1onestrong.com\/wp-content\/uploads\/2023\/08\/cleanzonejpg-0040-800x331.jpg",
+            "templates": [
+                {
+                    "source": "templates\/review.json",
+                    "name": "Review"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/blog.json",
+                    "name": "Blog"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                }
+            ],
+            "filesize": 39611,
+            "dimensions": [
+                1909,
+                789
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/9USQRYHWGV"
+        },
+        {
+            "filename": "testimonial-img-01.jpg",
+            "thumbnail_url": "https:\/\/cleanzone.1onestrong.com\/wp-content\/uploads\/2023\/07\/testimonial-img-01.jpg",
+            "templates": [
+                {
+                    "source": "templates\/review.json",
+                    "name": "Review"
+                }
+            ],
+            "filesize": 30613,
+            "dimensions": [
+                700,
+                700
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/9USQRYHWGV"
+        },
+        {
+            "filename": "Asset-041.png",
+            "thumbnail_url": "https:\/\/cleanzone.1onestrong.com\/wp-content\/uploads\/2023\/08\/Asset-041-800x248.png",
+            "templates": [
+                {
+                    "source": "templates\/404.json",
+                    "name": "404"
+                }
+            ],
+            "filesize": 41587,
+            "dimensions": [
+                1501,
+                465
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "404-page.png",
+            "thumbnail_url": "https:\/\/cleanzone.1onestrong.com\/wp-content\/uploads\/2023\/08\/404-page-800x331.png",
+            "templates": [
+                {
+                    "source": "templates\/404.json",
+                    "name": "404"
+                }
+            ],
+            "filesize": 50313,
+            "dimensions": [
+                1344,
+                556
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        }
+    ]
+}
